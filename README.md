@@ -1,4 +1,4 @@
-# book-store-sample-project
+# book-store-project
 A sample project developed while learning the basics of Spring Framework &amp; Thymeleaf Template Engine.
 
 ## Introduction
@@ -49,4 +49,4 @@ The only major complications I faced were while managing the favourite books. Th
 
 ## Conclusion
 In conclusion, working on this project only solidified my belief that my current understanding of Java web apps is insufficient.
-Next, I'm thinking of studying Vaadin to not just increase my understanding of Java web apps but also to practice on it some more.
+Next, I'm thinking of studying Vaadin to not just increase my understanding of Java web apps but also to practice it some more.
