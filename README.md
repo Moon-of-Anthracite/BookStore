@@ -29,3 +29,7 @@ A sample project developed while learning the basics of Spring Framework &amp; T
 - The Favourites view displays all the books that have been added to favourite from Catalogue view.
 - It was done by defining a boolean property in the entity class and running a query to filter the same.
 ![Favourite Books Page](https://github.com/user-attachments/assets/8286f581-e69f-45da-a320-4196d26d3c81)
+
+### Skills Highlighted
+- Implementing Bootstrap CSS & JavaScript through CDN Links.
+- Implementing Thymeleaf Template Engine in HTML Templates.
