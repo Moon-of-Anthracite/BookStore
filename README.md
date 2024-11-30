@@ -1,11 +1,16 @@
-# Personalized Book Sore with Favourite Books List
-A Java Web App developed while learning the basics of Spring Framework & Thymeleaf Template Engine.
+# BookStore
+A Java Web App developed while learning the basics of Spring Framework, Bootstrap Framework & Thymeleaf Template Engine.
 
 ## Introduction
+- BookStore is a Personalized Book Store with Favourite Books List & Simplified UI.
+- It was developed in the course of learning how to implement Spring Framework with Java.
 
 ## Project Details
 
 ### Summary
+- BookStore is a Java Web App built using Spring Framework for Back-End Development.
+- It utilizes Thymeleaf Template Engine along with Bootstrap Framework for Front-End.
+- It features a catalogue of books with the option to add, edit, favourite & remove books.
 
 ### Views
 This web app consists of 5 distinct views viz. Home, Catalogue, Add Books, Edit Books & Favourites.
@@ -34,10 +39,11 @@ This web app consists of 5 distinct views viz. Home, Catalogue, Add Books, Edit 
 - CSS
 - JavaScript
 - Java
+- Hibernate
 - Spring
-- SQL
 
 ## Additional Info
+The BookStore project is developed using the following:
 - Build Tool: Maven
 - Database: MySQL
 - IDE: IntelliJ Idea
