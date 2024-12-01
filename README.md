@@ -2,7 +2,7 @@
 A Java Web App developed while learning the basics of Spring Framework, Bootstrap Framework & Thymeleaf Template Engine.
 
 ## Introduction
-- BookStore is a Personalized Book Store with Favourite Books List & Simplified UI.
+- BookStore is a Personalized Book Store with Favourite Books List.
 - It was developed in the course of learning how to implement Spring Framework with Java.
 
 ## Project Details
@@ -41,10 +41,10 @@ This web app consists of 5 distinct views viz. Home, Catalogue, Add Books, Edit 
 - Java
 - Hibernate
 - Spring
+- Bootstrap
+- Thymeleaf
 
 ## Additional Info
-The BookStore project is developed using the following:
-- Build Tool: Maven
-- Database: MySQL
-- IDE: IntelliJ Idea
-- JDK: Vesion 22.0.2
+| Build Tool | Database | IDE | JDK |
+| --- | --- | --- | --- |
+| Apache Maven | MySQL Database | JetBrains IntelliJ Idea | Vesion 22.0.2 |
