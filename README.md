@@ -1,5 +1,5 @@
 # BookStore
-A Java Web App developed while learning the basics of Spring Framework & Thymeleaf Template Engine.
+A simple java web app developed while learning the basics of Spring Framework & Thymeleaf Template Engine.
 
 ## Introduction
 - BookStore is a Personalized Book Store with a Favourite Books List.
